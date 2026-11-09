@@ -5,8 +5,7 @@
 
   Automatically close unwanted websites and tabs with flexible rules and schedules.
 
-  <img src="
-    banner.png" alt="TabGuard — automatic tab closing, custom schedules and flexible website rules" width="100%" />
+  <img src="banner.png" alt="TabGuard — automatic tab closing, custom schedules and flexible website rules" width="100%" />
 </div>
 
 ## A cleaner browsing experience
